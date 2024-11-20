@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="2602.4807"
+   height="2018.3309"
+   viewBox="0 0 2602.4807 2018.3308"
+   sodipodi:docname="FrameTitleSpecification.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch44"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop44" />
+    </linearGradient>
+    <rect
+       x="1880.5695"
+       y="1932.1902"
+       width="22.562731"
+       height="25.981325"
+       id="rect1" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-631.10801)"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M -0.059998,0.38788 V 1191.088 H 841.92 V 0.38788 H -0.059998"
+         transform="matrix(0,1.3333333,1.3333333,0,0,0)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-822.628)"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-840.84002,-1028.908)"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M -0.059998,0.38788 V 1191.088 H 841.92 V 0.38788 H -0.059998"
+         transform="matrix(0,1.3333333,1.3333333,0,0,0)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-690.08801)"
+         id="path18" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-793.16799)"
+         id="path19" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-749.00802)"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <path
+         d="M -0.059998,0.38788 V 1191.088 H 841.92 V 0.38788 H -0.059998"
+         transform="matrix(0,1.3333333,1.3333333,0,0,0)"
+         clip-rule="evenodd"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath33">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-840.84002,-1176.268)"
+         id="path33" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath35">
+      <path
+         d="M -0.059998,0.38788 V 1191.088 H 841.92 V 0.38788 H -0.059998"
+         transform="matrix(0,1.3333333,1.3333333,0,0,0)"
+         clip-rule="evenodd"
+         id="path35" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24-2">
+      <path
+         d="M -0.059998,0.38788 V 1191.088 H 841.92 V 0.38788 H -0.059998"
+         transform="matrix(0,1.3333333,1.3333333,0,0,0)"
+         clip-rule="evenodd"
+         id="path24-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18-4">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-690.08801)"
+         id="path18-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19-8">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-793.16799)"
+         id="path19-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20-5">
+      <path
+         d="M 0.029999,1191.03 H 842.01 V 0.03 H 0.029999 Z"
+         transform="translate(-678.78002,-749.00802)"
+         id="path20-8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.73129446"
+     inkscape:cx="2055.2597"
+     inkscape:cy="1615.6283"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="2602.4807"
+       height="2018.3308"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(106.25842,-0.35820806)">
+    <path
+       id="path1"
+       d="M 2494.2154,1643.5163 H 1244.6429"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g3"
+       clip-path="url(#clipPath4)"
+       transform="matrix(1.7190903,0,0,1.7190903,-201.93262,87.670636)">
+      <path
+         d="M 0,0 H 162.06"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,841.47733,905.04)"
+         clip-path="url(#clipPath2)"
+         id="path3" />
+    </g>
+    <path
+       id="path5"
+       d="M 2494.2154,1711.042 H 1244.6429"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path6"
+       d="M 2494.2154,1812.3996 H 1244.6429"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g10"
+       clip-path="url(#clipPath11)"
+       transform="matrix(1.7190903,0,0,1.7190903,-201.93262,87.670636)">
+      <path
+         d="M 0,0 H 162.06"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,1096.8373,905.04)"
+         clip-path="url(#clipPath7)"
+         id="path9" />
+      <path
+         d="M 0,0 H -88.38"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,1371.8773,1121.12)"
+         clip-path="url(#clipPath8)"
+         id="path10" />
+    </g>
+    <path
+       id="path12"
+       d="m 2494.2154,1846.0937 h -337.767"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path13"
+       d="M 2494.2154,1913.7571 H 1683.6299"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path14"
+       d="m 2359.1636,1812.3996 v 101.3575"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path15"
+       d="m 2257.806,1812.3996 v 101.3575"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path16"
+       d="m 1683.6299,1778.5678 h -438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path17"
+       d="m 1312.1688,1643.5163 v 168.8833"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g23"
+       clip-path="url(#clipPath24)"
+       transform="matrix(1.7190903,0,0,1.7190903,-201.93262,87.670636)">
+      <path
+         d="M 0,0 H 162.06"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,920.11733,905.04)"
+         clip-path="url(#clipPath18)"
+         id="path21" />
+      <path
+         d="M 0,0 H 162.06"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,1057.5573,905.04)"
+         clip-path="url(#clipPath19)"
+         id="path22" />
+      <path
+         d="M 0,0 H 162.06"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,998.67733,905.04)"
+         clip-path="url(#clipPath20)"
+         id="path23" />
+    </g>
+    <path
+       id="path25"
+       d="m 1441.3581,1643.5163 v 168.8833"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path26"
+       d="m 1244.6429,1677.3478 h 438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path27"
+       d="m 1244.6429,1744.8736 h 438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path28"
+       d="m 1683.6299,1846.0937 h -438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path29"
+       d="m 1683.6299,1981.283 h -438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path30"
+       d="m 1683.6299,1947.4514 h -438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path31"
+       d="m 1683.6299,1913.7571 h -438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path32"
+       d="m 1683.6299,1879.9254 h -438.987"
+       style="fill:none;stroke:#000000;stroke-width:3.3763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g34"
+       clip-path="url(#clipPath35)"
+       transform="matrix(1.5979403,0,0,1.7994399,-11.488052,-0.46598577)">
+      <path
+         d="M 0,0 H -839.76 V -1161 H 0 V 0"
+         style="fill:none;stroke:#000000;stroke-width:1.473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,1.3333333,1.3333333,0,1568.3573,1121.12)"
+         clip-path="url(#clipPath33)"
+         id="path34" />
+    </g>
+    <text
+       id="text35"
+       xml:space="preserve"
+       x="2174.6018"
+       y="1837.7046"
+       style="font-size:27.5055px;stroke-width:2.29212"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:23.7922px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.29212"
+         x="2174.6018 2188.344 2196.9238 2207.4304 2218.4604 2229.1763 2286.7917 2299.718 2310.8455 2320.7432 2394.9963 2407.6467 2418.5005 2428.2625 2437.0515 2447.7769"
+         y="1837.7046"
+         sodipodi:role="line"
+         id="tspan35">СтадияЛистЛистов</tspan></text>
+    <text
+       id="text36"
+       xml:space="preserve"
+       transform="scale(0.96260028,1.0388528)"
+       x="1380.7225"
+       y="1736.2756"
+       style="font-size:28.5741px;stroke-width:2.38118"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         x="1380.7225"
+         y="1736.2756"
+         id="tspan36">К</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         x="1390.7238"
+         y="1736.2756"
+         id="tspan37">.</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         x="1394.8669 1403.2927"
+         y="1736.2756"
+         sodipodi:role="line"
+         id="tspan38">уч</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         x="1412.0117"
+         y="1736.2756"
+         id="tspan39">.</tspan></text>
+    <text
+       id="text36-9"
+       xml:space="preserve"
+       transform="scale(0.96260028,1.0388528)"
+       x="1311.764"
+       y="1736.8314"
+       style="font-size:28.5741px;stroke-width:2.38118"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         sodipodi:role="line"
+         id="tspan38-3"
+         x="1311.764"
+         y="1736.8314">изм</tspan></text>
+    <text
+       id="text36-9-7"
+       xml:space="preserve"
+       transform="scale(0.96260028,1.0388528)"
+       x="1446.4457"
+       y="1737.2383"
+       style="font-size:28.5741px;stroke-width:2.38118"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         sodipodi:role="line"
+         id="tspan38-3-7"
+         x="1446.4457"
+         y="1737.2383">лист</tspan></text>
+    <text
+       id="text36-9-7-6"
+       xml:space="preserve"
+       transform="scale(0.96260028,1.0388528)"
+       x="1500.1636"
+       y="1738.1764"
+       style="font-size:28.5741px;stroke-width:2.38118"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         sodipodi:role="line"
+         id="tspan38-3-7-0"
+         x="1500.1636"
+         y="1738.1764">N докум</tspan></text>
+    <text
+       id="text36-9-7-6-4"
+       xml:space="preserve"
+       transform="scale(0.96260028,1.0388528)"
+       x="1589.448"
+       y="1737.5637"
+       style="font-size:28.5741px;stroke-width:2.38118"
+       inkscape:transform-center-x="0.68371908"
+       inkscape:transform-center-y="-0.34185956"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         sodipodi:role="line"
+         id="tspan38-3-7-0-6"
+         x="1589.448"
+         y="1737.5637">подпись</tspan></text>
+    <text
+       id="text91"
+       xml:space="preserve"
+       x="1973.6785"
+       y="1695.0378"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.292;stroke-dasharray:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.292;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan92"
+         x="1973.6785"
+         y="1695.0378">370-24-АК4.СО</tspan></text>
+    <text
+       id="text91-8"
+       xml:space="preserve"
+       x="2182.4949"
+       y="1891.5253"
+       style="font-size:40px;stroke-width:2.29212"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:40px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.29212"
+         sodipodi:role="line"
+         id="tspan92-7"
+         x="2182.4949"
+         y="1891.5253">РД</tspan></text>
+    <g
+       id="g4"
+       transform="translate(-12,-12)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+         x="1793.063"
+         y="1971.2175"
+         id="text1"><tspan
+           sodipodi:role="line"
+           x="1793.063"
+           y="1971.2175"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'"
+           id="tspan2">Спецификация оборудования и</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+         x="1882.5005"
+         y="1996.704"
+         id="text1-6"><tspan
+           sodipodi:role="line"
+           x="1882.5005"
+           y="1996.704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'"
+           id="tspan2-4">материалов</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1923.1886"
+       y="1833.3224"
+       id="text1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-3"
+         x="1923.1886"
+         y="1833.3224"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:center;text-anchor:middle">Модернизация оборудования КИПиА водогрейного</tspan><tspan
+         sodipodi:role="line"
+         x="1923.1886"
+         y="1855.3224"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:center;text-anchor:middle"
+         id="tspan1">котла ПТВМ-180 ст.№4</tspan></text>
+    <g
+       id="g5"
+       transform="translate(39.195233)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:688.74;fill:#000000"
+         x="1742.0985"
+         y="1751.4917"
+         id="text1-7-9"
+         transform="translate(31.661011,-10.958179)"><tspan
+           x="1742.0985"
+           y="1751.4917"
+           id="tspan4">Балаковская ТЭЦ-4 филиала «Саратовский»</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+         x="1957.7587"
+         y="1770.9823"
+         id="text1-7-9-8"><tspan
+           sodipodi:role="line"
+           id="tspan1-3-2-9"
+           x="1957.7587"
+           y="1770.9823"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ПАО «Т Плюс»</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="2328.3904"
+       y="1938.5798"
+       id="text1-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-3-6"
+         x="2328.3904"
+         y="1938.5798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:center;text-anchor:middle">ООО НПП &quot;ЭСН&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="2328.3904"
+         y="1960.1798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:center;text-anchor:middle"
+         id="tspan3">www.nppesn.ru</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1250.701"
+       y="2006.5084"
+       id="text1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         x="1250.701"
+         y="2006.5084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Н.контр.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1250.7733"
+       y="1969.0378"
+       id="text1-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-5"
+         x="1250.7733"
+         y="1969.0378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Проверил</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1250.2048"
+       y="1935.9363"
+       id="text1-5-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-5-5"
+         x="1250.2048"
+         y="1935.9363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Разработал</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1384.496"
+       y="1935.5378"
+       id="text1-5-9-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-5-5-5"
+         x="1384.496"
+         y="1935.5378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Чураков</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1625.5656"
+       y="1938.343"
+       id="text1-5-9-1-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-5-5-5-8"
+         x="1625.5656"
+         y="1938.343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">09.24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1384.4961"
+       y="1969.0378"
+       id="text1-5-9-1-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-5-5-5-1"
+         x="1384.4961"
+         y="1969.0378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Корепанов</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+       x="1384.4961"
+       y="2006.5084"
+       id="text1-5-9-1-8-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-5-5-5-1-2"
+         x="1384.4961"
+         y="2006.5084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Агафонов</tspan></text>
+    <g
+       id="g6">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+         x="-1976.5328"
+         y="-38.33427"
+         id="text1-5-9-1-0"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1-7-5-5-0"
+           x="-1976.5328"
+           y="-38.33427"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">инв. № подп.</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44"
+         width="200"
+         height="31.19989"
+         x="-2017.1891"
+         y="-60.760418"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44-4"
+         width="200"
+         height="50"
+         x="-2017.1891"
+         y="-29.38847"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+         x="-1773.8488"
+         y="-39.74931"
+         id="text1-5-9-1-0-5"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1-7-5-5-0-7"
+           x="-1773.8488"
+           y="-39.74931"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">подп. и дата</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44-9"
+         width="200"
+         height="31.19989"
+         x="-1816.8546"
+         y="-60.760418"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44-4-4"
+         width="200"
+         height="50"
+         x="-1816.8546"
+         y="-29.38847"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+         x="-1609.8767"
+         y="-35.8997"
+         id="text1-5-9-1-0-5-1"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1-7-5-5-0-7-8"
+           x="-1609.8767"
+           y="-35.8997"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">взамен инв. №</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44-9-7"
+         width="150"
+         height="31.19989"
+         x="-1616.8376"
+         y="-60.760418"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44-9-7-2"
+         width="150"
+         height="31.19989"
+         x="-1466.6012"
+         y="-10.58836"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44-4-4-9"
+         width="150"
+         height="50"
+         x="-1616.8376"
+         y="-29.38847"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect45"
+         width="150"
+         height="31.19989"
+         x="-1316.6012"
+         y="-10.58836"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect46"
+         width="150"
+         height="31.19989"
+         x="-1466.6012"
+         y="-41.988419"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect47"
+         width="150"
+         height="31.19989"
+         x="-1316.6012"
+         y="-41.988419"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect48"
+         width="150"
+         height="31.19989"
+         x="-1466.6012"
+         y="-73.388359"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect49"
+         width="150"
+         height="31.19989"
+         x="-1316.6012"
+         y="-73.388359"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect50"
+         width="458.349"
+         height="31.200001"
+         x="-1466.6012"
+         y="-104.75842"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect51"
+         width="98.335732"
+         height="31.200001"
+         x="-1166.876"
+         y="-10.58847"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect52"
+         width="59.997166"
+         height="31.200001"
+         x="-1068.2207"
+         y="-10.58847"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect53"
+         width="98.335732"
+         height="31.200001"
+         x="-1166.876"
+         y="-41.988529"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect54"
+         width="59.997002"
+         height="31.200001"
+         x="-1068.2207"
+         y="-41.988529"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect55"
+         width="98.335999"
+         height="31.200001"
+         x="-1166.876"
+         y="-73.388474"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect56"
+         width="60"
+         height="31.200001"
+         x="-1068.2207"
+         y="-73.388474"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed';fill:#000000"
+         x="-1451.8767"
+         y="-79.899704"
+         id="text93"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan93"
+           x="-1451.8767"
+           y="-79.899704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:Arial;-inkscape-font-specification:'Arial Condensed'">Согласовано</tspan></text>
+    </g>
+    <text
+       id="text36-9-7-6-2"
+       xml:space="preserve"
+       transform="scale(0.96260028,1.0388528)"
+       x="1694.2102"
+       y="1735.334"
+       style="font-size:28.5741px;stroke-width:2.38118"><tspan
+         style="font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.9023px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38118"
+         sodipodi:role="line"
+         id="tspan38-3-7-0-3"
+         x="1694.2102"
+         y="1735.334">дата</tspan></text>
+  </g>
+</svg>
